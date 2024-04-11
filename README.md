@@ -2,7 +2,8 @@
 > Simple iOS demo of reading accelerometer data to the commandline
 
 Requires the device to be jailbroken to run. Tested on iOS 16.4.1, jailbroken with Dopamine 2.0.11. 
-Developed on iOS 16.4.1
+
+Developed on-device.
 #### Files:
 `accel_Interpreted.m`: Interprets the accelerometer data and displays the direction in which the screen is facing 
 `accel_Simple.m`: Displays the raw accelerometer data
